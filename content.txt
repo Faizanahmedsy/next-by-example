@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/59138677/how-to-turn-on-the-throwifnamespace-flag-in-react-js
+
+
+How  to solve svg in next 
